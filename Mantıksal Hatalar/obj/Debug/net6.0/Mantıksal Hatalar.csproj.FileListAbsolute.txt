@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\bin\Debug\net6.0\Mantıksal Hatalar.exe
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\bin\Debug\net6.0\Mantıksal Hatalar.deps.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\bin\Debug\net6.0\Mantıksal Hatalar.runtimeconfig.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\bin\Debug\net6.0\Mantıksal Hatalar.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\bin\Debug\net6.0\Mantıksal Hatalar.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\refint\Mantıksal Hatalar.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\Mantıksal Hatalar.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Mantıksal Hatalar\obj\Debug\net6.0\ref\Mantıksal Hatalar.dll
