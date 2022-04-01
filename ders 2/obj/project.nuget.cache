@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LYyN26jT8tzkPvWCyAw3GJxbBcVOJmF5Z0LqtjX2tYh9oOZWVK+VcXehpSam6FL0270ajVTV1NqDCEsvTdWeng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deniz\\OneDrive\\Masaüstü\\ödev\\ders 2\\ders 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deniz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

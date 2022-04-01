@@ -1,0 +1,16 @@
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\bin\Debug\net5.0\ders 1.exe
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\bin\Debug\net5.0\ders 1.deps.json
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\bin\Debug\net5.0\ders 1.runtimeconfig.json
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\bin\Debug\net5.0\ders 1.runtimeconfig.dev.json
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\bin\Debug\net5.0\ders 1.dll
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\bin\Debug\net5.0\ders 1.pdb
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.dll
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\refint\ders 1.dll
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.pdb
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ders 1.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Masaüstü\ödev\ders 1\obj\Debug\net5.0\ref\ders 1.dll
