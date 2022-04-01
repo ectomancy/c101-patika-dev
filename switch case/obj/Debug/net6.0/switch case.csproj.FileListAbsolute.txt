@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\bin\Debug\net6.0\switch case.exe
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\bin\Debug\net6.0\switch case.deps.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\bin\Debug\net6.0\switch case.runtimeconfig.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\bin\Debug\net6.0\switch case.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\bin\Debug\net6.0\switch case.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\refint\switch case.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\switch case.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\switch case\obj\Debug\net6.0\ref\switch case.dll
