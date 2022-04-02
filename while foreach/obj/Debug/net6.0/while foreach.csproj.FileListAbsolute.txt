@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\bin\Debug\net6.0\while foreach.exe
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\bin\Debug\net6.0\while foreach.deps.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\bin\Debug\net6.0\while foreach.runtimeconfig.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\bin\Debug\net6.0\while foreach.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\bin\Debug\net6.0\while foreach.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\refint\while foreach.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\while foreach.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\while foreach\obj\Debug\net6.0\ref\while foreach.dll
