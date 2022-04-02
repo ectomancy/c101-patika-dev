@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\bin\Debug\net6.0\loop brake continue.exe
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\bin\Debug\net6.0\loop brake continue.deps.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\bin\Debug\net6.0\loop brake continue.runtimeconfig.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\bin\Debug\net6.0\loop brake continue.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\bin\Debug\net6.0\loop brake continue.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\refint\loop brake continue.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\loop brake continue.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\loop brake continue\obj\Debug\net6.0\ref\loop brake continue.dll
