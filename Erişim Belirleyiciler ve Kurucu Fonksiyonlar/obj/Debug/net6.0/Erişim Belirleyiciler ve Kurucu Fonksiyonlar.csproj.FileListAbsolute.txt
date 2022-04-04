@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.exe
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.deps.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.runtimeconfig.json
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\refint\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net6.0\ref\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
