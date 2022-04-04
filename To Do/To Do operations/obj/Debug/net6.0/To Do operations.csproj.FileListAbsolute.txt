@@ -1,0 +1,5 @@
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\To Do\To Do operations\obj\Debug\net6.0\To Do operations.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\To Do\To Do operations\obj\Debug\net6.0\To Do operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\To Do\To Do operations\obj\Debug\net6.0\To Do operations.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\To Do\To Do operations\obj\Debug\net6.0\To Do operations.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Belgeler\GitHub\c101-patika-dev\To Do\To Do operations\obj\Debug\net6.0\To Do operations.csproj.CoreCompileInputs.cache
