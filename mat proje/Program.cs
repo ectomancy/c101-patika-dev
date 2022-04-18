@@ -1,0 +1,2 @@
+﻿matamatik hayatın her şeyidir.hayatın her yerinde matamatiği bulabilirsiniz.eğer matematiği biliyorsanız hayata çok farklı bakış açılarından bakabilirsiniz
+eğer bir konuda problem yaşıyorsanız matamatik sizin anahtarınız olabilir.
